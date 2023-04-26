@@ -1,10 +1,9 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 
 <head>
   <title data-react-helmet="true">HTTP 404 - SegmentFault</title>
   <meta charset="utf-8">
-  <meta http-equiv="refresh" content="20;url='https://github.com/cloudResource/error-page'">
   <link rel="stylesheet" href="./style/main.css">
 </head>
 
@@ -24,4 +23,7 @@
   </div>
 </body>
 
-</html>
+</html> -->
+
+# 404
+![](./style/effect.gif)
