@@ -1,7 +1,7 @@
 
 - 前言
     - [简介](zh-cn/README.md)
-    
+    - [致谢](zh-cn/Thanks.md)
 - Java
     - [基础](zh-cn/Java/base.md)
     - [函数](zh-cn/Java/func.md)
